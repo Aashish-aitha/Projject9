@@ -1,0 +1,8 @@
+
+{
+  "deviceType": {
+    "label": "Aashish",
+    "category": "virtual",
+    "downloadAgentUri": "Aashish/device/download"
+  }
+}
